@@ -1,5 +1,4 @@
 # music-downloader
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/thrifty21/music-downloader)
 
 This script allows you to download music from Spotify by providing a track, album, or playlist URL. It works by taking the track information (artist and song name) from Spotify and searching for the closest match on YouTube to download the audio.
 
